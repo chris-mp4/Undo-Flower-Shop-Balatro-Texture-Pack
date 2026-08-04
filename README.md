@@ -21,5 +21,5 @@ This mod is currently in testing.
 ## License
 The code in this repository is licensed under GPL-3.0. 
 All artwork, card designs, and visual assets are the original creative work 
-of chris.mp4 and are not covered by this license. Please do not reuse, 
+of chris-mp4 and are not covered by this license. Please do not reuse, 
 redistribute, or modify the artwork without permission.
