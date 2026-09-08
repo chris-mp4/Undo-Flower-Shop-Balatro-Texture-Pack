@@ -1,8 +1,8 @@
 # Undo Flower Shop
 
-planting my garden one flower at a time
+Planting my garden one flower at a time.
 
-A custom deck mod for Balatro featuring my hand-illustrated card designs from my actual deck of cards I desigined.
+A custom deck mod for Balatro featuring my hand-illustrated card designs based off of my new playing card deck I designed.
 
 ## Requirements
 - Steamodded
@@ -16,7 +16,7 @@ A custom deck mod for Balatro featuring my hand-illustrated card designs from my
 4. Launch Balatro, the mod should appear in the Mods menu
 
 ## Status
-This mod is currently in testing.
+Ready to play.
 
 ## License
 The code in this repository is licensed under GPL-3.0. 
