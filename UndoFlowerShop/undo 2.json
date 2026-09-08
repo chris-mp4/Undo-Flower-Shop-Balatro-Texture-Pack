@@ -1,0 +1,7 @@
+	"id": "undoflowershop",
+	"name": "Undo Flower Shop",
+	"author": ["chris.mp4"],
+	"description": "planting my garden one flower at a time",
+	"prefix": "undo",
+	"main_file": "templatecards.lua",
+	"icon_path": "icon.png"
